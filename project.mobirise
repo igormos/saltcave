@@ -737,7 +737,7 @@
                 "title": "СЛАЙДЕР НА ПОЛНЫЙ ЭКРАН",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Выберите из большого выбора последние готовые блоки - легкий, гибкий компонент, большое изображение веб-баннера, прокрутку с эффектом параллакса, видео фоны, гамбургер меню, прикрепленный заголовок и многое другое.",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ДЕТАЛЬНІШЕ</a> ",
                 "overlayOpacity": "0.4"
               },
