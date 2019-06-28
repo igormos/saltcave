@@ -725,7 +725,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/usenko-bg-2000x1283.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -761,7 +761,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-0358-panorama-1200x428.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
